@@ -27,11 +27,11 @@ Users should be able to:
 
 Desktop view
 
-<img src="./docs/component-desktop.png?raw=true" width="100%" alt="desktop view"/>
+<img src="./docs/component-desktop.jpg?raw=true" width="100%" alt="desktop view"/>
 
 Mobile view
 
-<img src="./docs/component-mobile.png?raw=true" width="375px" alt="mobile view"/>
+<img src="./docs/component-mobile.jpg?raw=true" width="375px" alt="mobile view"/>
 
 ### Links
 
